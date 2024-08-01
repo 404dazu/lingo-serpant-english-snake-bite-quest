@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5433d86da24cd654bb8a6c2d01e478fd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - assetSoal: {fileID: 4900000, guid: 89b4c75e0fc3c7b428066d24f786273e, type: 3}
+  - txtSoal: {instanceID: 0}
+  - txtOpsiA: {instanceID: 0}
+  - txtOpsiB: {instanceID: 0}
+  - txtOpsiC: {instanceID: 0}
+  - txtOpsiD: {instanceID: 0}
+  - panel: {instanceID: 0}
+  - txtPenilaian: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
